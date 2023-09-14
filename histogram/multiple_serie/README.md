@@ -3,7 +3,7 @@
 ## Data layout
 
 We use a dedicated CSV file for each serie.
-All of them have the following two-column structure:
+All of them have the following two-column structure.
 The first column state the label for each value that we want on the x-axys.
 The second column state the related y-value.
 
