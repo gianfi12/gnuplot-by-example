@@ -1,4 +1,4 @@
-[histogram](pic/screenshot.png)
+![histogram](pic/screenshot.png)
 
 ## Data layout
 
