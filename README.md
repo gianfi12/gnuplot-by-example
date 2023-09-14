@@ -33,11 +33,11 @@ For convenience, we might provide a simple Python script to perform trivial post
 
 # Customization opportunities
 
-A significant fraction of the customization opportunities are related on changing colors and labels.
-Both of them can be trivially changed by the user.
+A significant fraction of the customization opportunities are related to changing colors and labels.
+The user can easily change both of them.
 However, sometimes it is possible to change line types, point types, or pattern types.
-In Gnuplot these types are integer number.
-We suggest to use the `test` command in the Gnuplot shell to show in a window all the available types and their numerical id.
-As example, this is a screenshot for Gnuplot 5.4:
+In Gnuplot, these types are integer numbers.
+We suggest using the `test` command in the Gnuplot shell to display all the available types and their numerical id.
+For example, this is a screenshot from Gnuplot 5.4:
 
 ![test](test.png)
