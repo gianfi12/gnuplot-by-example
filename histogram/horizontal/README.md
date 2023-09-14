@@ -1,4 +1,4 @@
-[histogram](plot.pdf)
+[histogram](pic/screenshot.png)
 
 ## Data layout
 
