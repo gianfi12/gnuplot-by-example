@@ -29,5 +29,4 @@ For convenience, we might provide a simple Python script to perform trivial post
 1. Copy the most related example in your local directory
 2. Read its readme to understand how to customize it
 3. Update the sample data with the real one
-4. Generate the plot with Gnuplot
-  - Usually is a matter of `gnuplot < plot.gnuplot > plot.pdf`
+4. Generate the plot with Gnuplot, usually is a matter of `gnuplot < plot.gnuplot > plot.pdf`
