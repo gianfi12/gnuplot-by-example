@@ -30,3 +30,14 @@ For convenience, we might provide a simple Python script to perform trivial post
 2. Read its readme to understand how to customize it
 3. Update the sample data with the real one
 4. Generate the plot with Gnuplot, usually is a matter of `gnuplot < plot.gnuplot > plot.pdf`
+
+# Customization opportunities
+
+A significant fraction of the customization opportunities are related on changing colors and labels.
+Both of them can be trivially changed by the user.
+However, sometimes it is possible to change line types, point types, or pattern types.
+In Gnuplot these types are integer number.
+We suggest to use the `test` command in the Gnuplot shell to show in a window all the available types and their numerical id.
+As example, this is a screenshot for Gnuplot 5.4:
+
+![test](test.png)
