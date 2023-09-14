@@ -1,5 +1,3 @@
-# How to plot stuff
-
 The main goal of this repository is to provide a quick and easy way to generate visually pleasing plots for scientific papers in vectorial format.
 We provide a collection of working examples for the most common types of plots, that can be taken and easily customized to minimize your time-to-plot.
 
@@ -15,7 +13,7 @@ If you are interested in the usage of Gnuplot, there are plenty of useful resour
 - [official documentation](http://www.gnuplot.info/documentation.html)
 - [gnuplotting](http://www.gnuplotting.org/)
 
-# Repository organization
+# File organization
 
 Each folder is named after the general type of plot that it targets.
 For some types, we also provide variants in a dedicated folder.
@@ -26,10 +24,10 @@ All the examples have the following files:
 
 For convenience, we might provide a simple Python script to perform trivial post-processing operations on data.
 
-# How to use the repository
+# From example to plot
 
 1. Copy the most related example in your local directory
 2. Read its readme to understand how to customize it
 3. Update the sample data with the real one
 4. Generate the plot with Gnuplot
-  - Usually is a matter of `gnuplot < plot.gnuplot > plot.pdf`
+  > Usually is a matter of `gnuplot < plot.gnuplot > plot.pdf`
