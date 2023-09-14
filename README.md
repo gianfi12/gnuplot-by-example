@@ -13,7 +13,7 @@ If you are interested in the usage of Gnuplot, there are plenty of useful resour
 - [official documentation](http://www.gnuplot.info/documentation.html)
 - [gnuplotting](http://www.gnuplotting.org/)
 
-# File organization
+## File organization
 
 Each folder is named after the general type of plot that it targets.
 For some types, we also provide variants in a dedicated folder.
@@ -24,14 +24,14 @@ All the examples have the following files:
 
 For convenience, we might provide a simple Python script to perform trivial post-processing operations on data.
 
-# From example to plot
+## From example to plot
 
 1. Copy the most related example in your local directory
 2. Read its readme to understand how to customize it
 3. Update the sample data with the real one
 4. Generate the plot with Gnuplot, usually is a matter of `gnuplot < plot.gnuplot > plot.pdf`
 
-# Customization opportunities
+## Customization opportunities
 
 A significant fraction of the customization opportunities are related to changing colors and labels.
 The user can easily change both of them.
