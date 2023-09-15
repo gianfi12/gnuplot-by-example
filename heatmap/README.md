@@ -1,3 +1,4 @@
+## Plot example
 ![heatmap](pic/screenshot.png)
 
 ## Data layout
