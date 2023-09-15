@@ -1,4 +1,4 @@
-![histogram](pic/screenshot.png)
+![boxplot](pic/screenshot.png)
 
 ## Data layout
 
