@@ -14,4 +14,4 @@ The CSV file has the following four columns:
 * Change the range of the y-axis, by editing the `yrange` statement
 * Change the label of the y-axis, by editing the `ylabel` statement
 * Change the plot size (and aspect ration) and font size, by editing the `terminal` statement
-* Change the error lines color and width, by editing the `errorbars` statement
+* Change the error bars color and width, by editing the `errorbars` statement
