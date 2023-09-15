@@ -3,12 +3,6 @@ import csv
 import math
 import argparse
 
-# define the parameters for counting the data
-bin_width = 0.2
-min_value = 0.0
-maxish_value = 5.0
-
-
 if __name__ == "__main__":
     # get the parameters from command line arguments
     parser = argparse.ArgumentParser(
