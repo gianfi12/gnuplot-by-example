@@ -1,3 +1,4 @@
+## Plot example
 ![histogram](pic/screenshot.png)
 
 ## Data layout
