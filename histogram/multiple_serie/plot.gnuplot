@@ -20,5 +20,5 @@ set yrange [0:]
 
 # plot command
 plot \
-'data_serie_1.csv' using 2:xtic(1) lc rgb '#1B9E77' fill pattern 1 title "Serie 1",\
-'data_serie_2.csv' using 2:xtic(1) lc rgb '#D95F02' fill pattern 4 title "Serie 2",\
+'data.csv' using "Serie_1":xtic(1) lc rgb '#1B9E77' fill pattern 1 title "Serie 1",\
+'data.csv' using "Serie_2":xtic(1) lc rgb '#D95F02' fill pattern 4 title "Serie 2",\
