@@ -3,13 +3,8 @@
 
 ## Data layout
 
-We use a dedicated CSV file for each serie.
-All of them have the following two-column structure.
-The first column state the label for each value that we want on the x-axys.
-The second column state the related y-value.
-
-> It is important that all the CSV files share the same labels (first column)
-
+We use a csv file that as one column for each serie that we want to plot and one column with the labels for the x-axys.
+The idea is that each row has the x-axys label and the y-values for all the data series.
 ## Customization opportunities
 
 * By editing the `plot` statement we can change the following properties:
